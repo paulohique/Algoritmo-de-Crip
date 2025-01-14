@@ -56,7 +56,7 @@ O código principal do projeto está implementado na linguagem **C**. As funçõ
 Para clonar este repositório, execute o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/paulohique/Algoritmo-de-Crip
 cd nome-do-repositorio
 ```
 ## 2. Compile o Código
